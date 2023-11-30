@@ -1,5 +1,9 @@
 **NOTES**
-The project has been split into 3 files due to the size
+1. The project has been split into 3 files due to the size
+2. If you can't visualize all of the graphs in the JupyterNotebook file in this repository, please access it from here >>
+    Part 1:
+    Part 2:
+    Part 3:
 
 ## Project Description
 You work at a startup that sells food products. You need to investigate user behavior for the company's app.
