@@ -1,3 +1,6 @@
+NOTE: If you can't visualize all of the graphs in the JupyterNotebook file in this repository, please access it from here >>
+https://nbviewer.org/github/nikag83/data-analyst-course-projects/blob/main/%238%20%7C%20How%20to%20Tell%20a%20Story%20Using%20Data/%238%20-%20Data%20Storytelling%20-%20restaurant%20analysis.ipynb
+
 ## Project description
 You’ve decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. They’re interested in the current market conditions—will you be able to maintain your success when the novelty of robot waiters wears off?
 You’re an analytics guru, so your partners have asked you to prepare some market research. You have open-source data on restaurants in LA.
