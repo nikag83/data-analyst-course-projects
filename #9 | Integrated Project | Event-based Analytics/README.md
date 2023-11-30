@@ -1,3 +1,6 @@
+**NOTES**
+The project has been split into 3 files due to the size
+
 ## Project Description
 You work at a startup that sells food products. You need to investigate user behavior for the company's app.
 First study the sales funnel. Find out how users reach the purchase stage. How many users actually make it to this stage? How many get stuck at previous stages? Which stages in particular?
@@ -16,6 +19,7 @@ Each log entry is a user action or an event.
 
 ## Instructions for completing the project
 
+**File 1:**
 ### Step 1. Open the data file and read the general information
 File path: /datasets/logs_exp_us.csv 
 
@@ -28,10 +32,14 @@ File path: /datasets/logs_exp_us.csv
 - How many events are in the logs?
 - How many users are in the logs?
 - What's the average number of events per user?
-- What period of time does the data cover? Find the maximum and the minimum date. Plot a histogram by date and time. Can you be sure that you have equally complete data for the entire period? Older events could end up in some users' logs for technical reasons, and this could skew the overall picture. Find the moment at which the data starts to be complete and ignore the earlier section. What period does the data actually represent?
+- What period of time does the data cover? Find the maximum and the minimum date. Plot a histogram by date and time. Can you be sure that you have equally complete data for the entire period? Older events could end up in some users' logs for technical reasons, and this could skew the overall picture.
+- Find the moment at which the data starts to be complete and ignore the earlier section. What period does the data actually represent?
+
+**Part 2**
 - Did you lose many events and users when excluding the older data?
 - Make sure you have users from all three experimental groups.
 
+**Part 3**
 ### Step 4. Study the event funnel
 - See what events are in the logs and their frequency of occurrence. Sort them by frequency.
 - Find the number of users who performed each of these actions. Sort the events by the number of users. Calculate the proportion of users who performed the action at least once.
