@@ -1,7 +1,9 @@
 ## Tableau Dashboard & Presentation
+**Tableau**
 https://public.tableau.com/views/TableaudashboardbyNikaGelfand-Sprint11/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-
+**Presentation**
+https://github.com/nikag83/data-analyst-course-projects/blob/main/%2310%20%7C%20Automation%20(Tableau)/Automation%20and%20Tableau%20dashboard%20-%20by%20Nika%20Gelfand.pdf
 
 ## Project description
 You work as a video ad analyst at the Sterling & Draper advertising agency. You devote a lot of time to analyzing trending videos on YouTube to determine what content deserves marketing attention. Each video has a specific category (Entertainment, Music, News & Politics, etc.), region, and trending date. A video can be in the trending section for several days in a row.
