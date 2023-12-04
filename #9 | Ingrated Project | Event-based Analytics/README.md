@@ -3,7 +3,7 @@
 2. If you can't visualize all of the graphs in the JupyterNotebook file in this repository, please access it from here >>
     Part 1: https://nbviewer.org/github/nikag83/data-analyst-course-projects/blob/main/%239%20%7C%20Integrated%20Project%20%7C%20Event-based%20Analytics/%239%20-%201%20-%20Event-based%20analytics%20-%20funnels%20and%20aab%20testing.ipynb
    
-    Part 2:
+    Part 2: https://nbviewer.org/github/nikag83/data-analyst-course-projects/blob/main/%239%20%7C%20Ingrated%20Project%20%7C%20Event-based%20Analytics/%239%20-%202%20-%20Event-based%20analytics%20-%20funnels%20and%20aab%20testing.ipynb
     Part 3:
 
 ## Project Description
