@@ -4,7 +4,8 @@
     Part 1: https://nbviewer.org/github/nikag83/data-analyst-course-projects/blob/main/%239%20%7C%20Integrated%20Project%20%7C%20Event-based%20Analytics/%239%20-%201%20-%20Event-based%20analytics%20-%20funnels%20and%20aab%20testing.ipynb
    
     Part 2: https://nbviewer.org/github/nikag83/data-analyst-course-projects/blob/main/%239%20%7C%20Ingrated%20Project%20%7C%20Event-based%20Analytics/%239%20-%202%20-%20Event-based%20analytics%20-%20funnels%20and%20aab%20testing.ipynb
-    Part 3:
+   
+    Part 3: https://nbviewer.org/github/nikag83/data-analyst-course-projects/blob/main/%239%20%7C%20Integrated%20Project%20%7C%20Event-Based%20Analytics/%239%20-%203%20-%20Event-based%20analytics%20-%20funnels%20and%20aab%20testing.ipynb
 
 ## Project Description
 You work at a startup that sells food products. You need to investigate user behavior for the company's app.
