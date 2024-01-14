@@ -1,3 +1,5 @@
+NOTE: If you can't visualize all of the graphs in the JupyterNotebook file in this repository, please access it from here >> 
+  
 https://nbviewer.org/github/nikag83/data-analyst-course-projects/blob/main/Hackathon%20-%20Parking%20Tickets%20in%20NYC/NY_Parking_Tickets%20-%20final.ipynb
 
 
