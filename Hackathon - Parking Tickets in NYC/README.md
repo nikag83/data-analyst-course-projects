@@ -1,3 +1,6 @@
+https://nbviewer.org/github/nikag83/data-analyst-course-projects/blob/main/Hackathon%20-%20Parking%20Tickets%20in%20NYC/NY_Parking_Tickets%20-%20final.ipynb
+
+
 Link to the dataset: https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets  
 
 **Dataset description**  
